@@ -1,4 +1,4 @@
-I am traing to make a scripting program for basicly evry true combo in the game Brawhalla
+I am traing to make a scripting program for basicly every true combo in the game Brawhalla
 this is a litle experiment of my to test and expand my programing skils in a fun way
 i have plans to make an ui in the future to make bind chages esier in ASCII style.
 
